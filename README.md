@@ -11,7 +11,7 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Re
 
 Methodology: EDA (log transformation, outlier detection, correlation heatmaps), Pivot tables (Genres & Production Companies), OLS Multiple Linear Regression, Random Forest Regressor (with cross-validation), Hypothesis Testing (ANOVA).
 
-Key Findings: Vote count is the #1 predictor (68.1% importance). Budget (9.3%) and ratings (6.4%) matter less. Genres like Adventure/Family dominate. Wikipedia length significantly correlates with revenue (ANOVA p < 0.001).
+Key Findings: Vote count is the predictor (68.1% importance). Budget (9.3%) and ratings (6.4%) matter less. Genres like Adventure/Family dominate. Wikipedia length significantly correlates with revenue (ANOVA p < 0.001).
 
 
 Movie Profitability Analysis: Budget, Genre, and Audience Engagement

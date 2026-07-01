@@ -1,4 +1,3 @@
-
 Title: Movie Profitability Analysis: Budget, Genre, and Audience Engagement
 
 Overview: This project explores the factors that influence movie financial success using data from The Movie Database (TMDb), API enrichment, and Wikipedia web scraping.
